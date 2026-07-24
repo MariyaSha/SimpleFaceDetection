@@ -59,13 +59,9 @@ Download the original high-resolution images from Magnific and resize them yours
 
 - demo.jpg (Girl + Cat): <a href="https://www.magnific.com/free-photo/beautiful-stylish-woman-purple-suit-hat-walking-city-street-spring-summer-autumn-season-fashion-trend-black-cat_11576374.htm#fromView=search&page=1&position=8&uuid=b7d0d360-4260-48fc-9f61-3005a0486868&query=cat+lady
 " target="_blank">Download Here</a>
-
 - demo1.jpg (Cyclist + Cars): <a href="https://www.magnific.com/free-photo/cyclist-riding-bridge-city-dynamic-motion-with-blur-effect_427602721.htm#fromView=search&page=1&position=31&uuid=8c46b620-363f-45fe-b57c-280a59fac0c3&query=vehicles" target="_blank">Download Here</a>
-
 - demo2.jpg (Kitchen): <a href="https://www.magnific.com/free-photo/portrait-beautiful-brunette-girl-chopping-vegetables-meal-making-salad-kitchen-eating_78042227.htm#fromView=search&page=1&position=20&uuid=38c9393f-bb3d-4cb1-ae0f-b9eaaa835d21&query=kitchen" target="_blank">Download Here</a>
-
 - demo3.jpg (Dog + Sheep): <a href="https://www.magnific.com/free-photo/mother-sheep-with-its-two-baby-sheep-grassy-field-daytime_11063035.htm#fromView=search&page=2&position=25&uuid=4838e797-6eb9-4369-971a-6549ce62d2f6&query=dog+sheep" target="_blank">Download Here</a>
-
 - demo4.jpg (Laptop, Cup & Mouse): <a href="https://www.magnific.com/free-photo/laptop-mouse-top-view_7342965.htm#fromView=search&page=1&position=16&uuid=bb4236e1-ad8c-4b86-a33d-b209ded588a1&query=computer
 " target="_blank">Download Here</a>
 
