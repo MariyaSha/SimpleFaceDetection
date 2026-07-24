@@ -25,7 +25,6 @@ Same as the CPU instructions from above, but with the following Pytorch addons:
 3. If the right command for your version of CUDA is `pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130` then do the following:
    - uninstall Pytorch, such that: `pip uninstall torch torchvision`
    - only then, right command for your version of CUDA: `pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130`
-   ```
 4. Open Jupyter Lab:
 ```
 jupyter
