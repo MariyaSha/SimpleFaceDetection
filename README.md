@@ -1,6 +1,9 @@
 # SimpleFaceDetection
 A Simple Face Detection and Object Detection Workflow for Images and Real Time Video Streams
 
+## Video Tutorial 🎥
+<a href="https://youtu.be/GhAC0xBIepQ" target="_blank"><img width="600" alt="Python Face Detection from Scratch Tutorial Thumbnail" src="https://github.com/user-attachments/assets/9b9b3cd5-09b6-4488-910a-1ee8d94c7afd" /></a>
+
 ## Face Detection Model Source
 This workflow relies both on the official version of YOLO that we download directly from our Python code, as well as a community version of YOLO, `yolov8m-face.pt`, that we download from here:
 <br>
