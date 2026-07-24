@@ -14,7 +14,7 @@ pip install opencv-python ultralytics jupyter
 ```
 4. Open Jupyter Lab:
 ```
-jupyter
+jupyter lab
 ```
 5. Run notebooks.
 
@@ -27,6 +27,6 @@ Same as the CPU instructions from above, but with the following Pytorch addons:
    - only then, right command for your version of CUDA: `pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130`
 4. Open Jupyter Lab:
 ```
-jupyter
+jupyter lab
 ```
 5. Run notebooks.
