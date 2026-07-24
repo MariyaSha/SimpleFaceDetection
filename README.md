@@ -6,9 +6,11 @@ This workflow relies both on the official version of YOLO that we download direc
 <br>
 https://github.com/akanametov/yolo-face
 <br>
-Huge shout to Akanametov for sharing his community version of YOLO-Face with the world!
+<br>
+Huge shoutout to Akanametov for sharing his community version of YOLO-Face with the world!
 <br>
 Please give him a star and a follow if you end up using this workflow:
+<br>
 https://github.com/akanametov
 
 ## Installation Instructions - CPU:
