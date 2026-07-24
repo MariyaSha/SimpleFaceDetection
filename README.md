@@ -3,9 +3,11 @@ A Simple Face Detection and Object Detection Workflow for Images and Real Time V
 
 ## Face Detection Model Source
 This workflow relies both on the official version of YOLO that we download directly from our Python code, as well as a community version of YOLO, `yolov8m-face.pt`, that we download from here:
+<br>
 https://github.com/akanametov/yolo-face
 <br>
 Huge shout to Akanametov for sharing his community version of YOLO-Face with the world!
+<br>
 Please give him a star and a follow if you end up using this workflow:
 https://github.com/akanametov
 
